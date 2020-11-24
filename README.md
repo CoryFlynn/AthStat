@@ -1,5 +1,5 @@
 # AthStat
-1.1	Statistic
+1.1	Statistic \n
 The statistic I will produce for this project will be a numerical representation of individual players’ athleticism. To create this statistic, I will pull measurements from specific aspects of the game that strongly represent athleticism, or represent more it more so than baseball specific skills. These measurements will be combined through a formula to determine rankings in three main categories; strength, speed, and acrobatic ability. The three of these categories will be combined to produce an athletic ability above average metric (AAA). 
 
 Acrobatic ability will be used to represent the play making capabilities of players. For this metric, we will look at catch probabilities under 50% and 25% and calculate the ratio of catches made to opportunities. Also included in this metric will be arm strength measurements. This stat alone will attempt to put a number on game changing plays, like throwing out a player at home or robbing a home run.
